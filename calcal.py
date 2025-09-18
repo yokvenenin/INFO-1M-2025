@@ -9,3 +9,5 @@ elif sinal == 'x':
     print(num * num2)
 elif sinal == '/':
     print(num / num2)
+
+# lembra de fazer o bagui da calculadora la
